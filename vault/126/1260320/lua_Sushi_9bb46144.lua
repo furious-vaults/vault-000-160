@@ -1,9 +1,0 @@
-addappid(1260320)
-addappid(228989)
-addappid(1260321,0,"9623dafeee383701a837274d2547c7a5cbae7334393d64e82b4d2cdc01ef679e")
-setManifestid(1260321,"8343327074661407536")
-
---[[
-This file Generated using fares.top Website 
------> join discord Server : https://discord.gg/steamgames 
-]]
